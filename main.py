@@ -1,3 +1,6 @@
+
+print("Git Push test!")
+
 chislo1 = int(input("Molq vavedete chislo!"))
 operacia = input("!sabirane ili !izvajdane")
 chislo2 = int(input("Molq vavedete chislo!"))
